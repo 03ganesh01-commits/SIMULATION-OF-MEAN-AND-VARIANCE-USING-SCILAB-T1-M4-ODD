@@ -30,3 +30,22 @@ To write a program for mean, variance and cross correlation in SCILAB and verify
 * Execute the code.
 * If any Error, correct it in code and execute again.
 * Verify the generated results.
+
+
+GRAPH:
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/d60ae4cb-397f-4523-baad-db29c31cec0a" />
+
+CALCULATION:
+
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/7bc8d5ba-29d6-4c94-bb2c-7eb4ecf7808f" />
+
+
+
+
+RESULT: Thus the mean , variance and cross correlation are executed in Scilab and output is verified. 
+
+
+
+
+
+
